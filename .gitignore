@@ -1,0 +1,6 @@
+# Compiled Java class files / Eclipse build output
+bin/
+*.class
+
+# macOS
+.DS_Store
