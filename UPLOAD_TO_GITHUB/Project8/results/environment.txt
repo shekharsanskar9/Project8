@@ -1,5 +1,0 @@
-java.version=21.0.12.1
-java.vm.name=OpenJDK 64-Bit Server VM
-os=Linux 6.18.44-fc-v165 (amd64)
-available.processors=2
-max.heap.mb=1496
