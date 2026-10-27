@@ -3,7 +3,7 @@
 A CloudSim 5.0 implementation of **joint optimization of resource utilization and makespan** using a Genetic Algorithm (GA), reproducing Dehury, Kumar and Kumar, *"Joint optimization of resource utilization and makespan in cloud computing using genetic algorithm"*, Discover Computing 29:315 (2026), [doi:10.1007/s10791-026-10167-0](https://doi.org/10.1007/s10791-026-10167-0).
 
 Cloud Computing Lab (IT348) project, B.Tech Computer Science and Engineering, Birla Institute of Technology, Mesra.
-Sanskar Shekhar (BTECH/10150/23) and Aman Nautiyal (BTECH/10171/23).
+Sanskar Shekhar  and Aman Nautiyal .
 
 **Report:** [report.pdf](report.pdf) (IEEE format, LaTeX source in [report.tex](report.tex)) · **Cover page:** [cover.pdf](cover.pdf)
 
