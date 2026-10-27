@@ -5,7 +5,7 @@ A CloudSim 5.0 implementation of **joint optimization of resource utilization an
 Cloud Computing Lab (IT348) project, B.Tech Computer Science and Engineering, Birla Institute of Technology, Mesra.
 Sanskar Shekhar  and Aman Nautiyal .
 
-**Report:** [report.pdf](report.pdf) (IEEE format, LaTeX source in [report.tex](report.tex)) · **Cover page:** [cover.pdf](cover.pdf)
+
 
 ## Project Highlights
 
